@@ -23,9 +23,9 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <a href="monishsugumar@outlook.com"><img src="https://img.shields.io/badge/📧_monishsugumar@outlook.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_AI_&_Research_Collabs-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🧠_Building_Autonomous_Systems-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
