@@ -1,121 +1,54 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+# Hi, I'm Monishwaran K 👋
+### AI Engineer | LLM Developer | Agentic AI Architect
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Monishwaran K</strong>
-</h1>
+Building the next generation of autonomous systems using **Large Language Models**, **Multi-Agent Orchestration**, and **Advanced RAG** architectures.
 
-<h3>AI Engineer | LLM Developer | Agentic AI Architect | GenAI • ML • RAG</h3>
+---
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+### 🛠️ Core Expertise
 
-  <p> I build intelligent systems powered by Large Language Models, Agentic AI frameworks, 
-    and Retrieval-Augmented Generation (RAG).
-  </p>
-   <p>
-    🚀 Designing autonomous multi-agent architectures <br/>
-    🧠 Building scalable LLM applications with memory & reasoning <br/>
-    📊 Applying ML models for real-world optimization problems <br/>
-    ⚡ Turning AI research into production-ready systems
-  </p>
+* **Agentic AI:** Designing autonomous multi-agent systems with reasoning, tool-use, and long-term memory.
+* **LLM Engineering:** Specialized in RAG pipelines, fine-tuning, and structured output systems (OpenAI, Claude, Llama).
+* **Machine Learning:** Applying ML for real-world optimization and predictive modeling.
+* **Product Engineering:** Turning AI research into scalable, production-ready microservices.
 
+---
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_AI_&_Research_Collabs-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🧠_Building_Autonomous_Systems-1e1e2e?style=for-the-badge" />
-  </p>
+### 🧠 Technical Stack
 
-<h3>🌐 Socials</h3>
-  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br> LangChain • HuggingFace • Scikit-Learn • Prompt Engineering |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> REST APIs • AI Microservices • Model Deployment |
+| **Data & Vector Stores** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) <br> Pinecone • FAISS • Supabase • Semantic Search |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> CI/CD Pipelines • Scalable Model Serving |
+
+---
+
+### 📊 GitHub Stats & Activity
+
 <p align="left">
-  
-
-  <a href="https://discord.com/users/nomercy0940_78751">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Monishwaran45">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/monishwaran-k-ba0a1230b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>>
+  <img src="https://github-readme-stats.vercel.app/api?username=Monishwaran45&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishwaran45&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages card" />
 </p>
 
+---
 
- 
-</div>
+### 🌐 Connect with Me
 
-<br clear="all" />
-
-
-## 🛠️ Skills
+<p align="left">
+  <a href="https://www.linkedin.com/in/monishwaran-k-ba0a1230b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Monishwaran45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/nomercy0940_78751">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>🧠 AI / Machine Learning</h3>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-<br/>
-LLMs • Generative AI • Agentic AI • RAG • NLP <br/>
-LangChain • HuggingFace • Scikit-Learn • Prompt Engineering
-
-</td>
-
-<td width="50%" align="center">
-<h3>⚙️ Backend & AI APIs</h3>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
-<br/>
-REST APIs • AI Microservices • Model Deployment <br/>
-OpenAI API • Claude API • Structured Output Systems
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases & Vector Stores</h3>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
-<br/>
-Pinecone • FAISS • Supabase • Embeddings <br/>
-Semantic Search • Data Pipelines
-
-</td>
-
-<td width="50%" align="center">
-<h3>🌐 Frontend & Product Engineering</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
-<br/>
-TypeScript • UI/UX Design • Responsive Systems
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>☁️ DevOps & Deployment</h3>
-
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github" />
-<br/>
-CI/CD • Scalable Deployment • Model Serving
-
-</td>
-
-<td width="50%" align="center">
-<h3>🧰 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-<br/>
-Prompt Debugging • API Testing • System Design
-</td>
-</tr>
-</table>
+  <img src="https://img.shields.io/badge/🌍_Based_in_India-1e1e2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤝_Open_to_Research_Collabs-1e1e2e?style=flat-square" />
 </p>
