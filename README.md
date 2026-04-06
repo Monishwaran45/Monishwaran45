@@ -6,7 +6,7 @@
 </h1>
 
 <h3>AI Engineer | LLM Developer | Agentic AI Architect | GenAI • ML • RAG</h3>
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <div align="left">
 
   <p> I build intelligent systems powered by Large Language Models, Agentic AI frameworks, 
