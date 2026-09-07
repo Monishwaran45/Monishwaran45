@@ -25,7 +25,10 @@
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🤝_Open_to_AI_&_Research_Collabs-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🧠_Building_Autonomous_Systems-1e1e2e?style=for-the-badge" />
-  </p>
+     <a href="https://monishwaran-9i36dtrix-monishlegend1780-7397s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/💼_Portfolio-1e1e2e?style=for-the-badge" />
+  </a>
+    </p>
 
 <h3>🌐 Socials</h3>
   
